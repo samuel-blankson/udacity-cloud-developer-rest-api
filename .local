@@ -1,0 +1,21 @@
+POSTGRES_USERNAME = postgres
+POSTGRES_PASSWORD = rootroot
+DATABASE = alxdatabase
+AWS_REGION = us-east-1
+AWS_PROFILE = default
+HOST = alxdatabase.cuviivu0xttn.us-east-1.rds.amazonaws.com
+AWS_MEDIA_BUCKET = alxdatabase
+SECRET = rootrottorrfjrljnjvldfjvljdfnlcndlcjdlncjnldjcnjncd
+
+
+
+
+  // "dev": {
+  //   "username": "alxuser",
+  //   "password": "rootroot",
+  //   "database": "alxdatabase",
+  //   "host": "alxdatabase.cl7dfryugjxb.us-east-1.rds.amazonaws.com",
+  //   "dialect": "postgres",
+  //   "aws_region": "us-east-1",
+  //   "aws_profile": "default",
+  //   "aws_media_bucket": "alxdatabase"
